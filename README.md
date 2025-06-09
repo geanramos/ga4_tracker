@@ -50,7 +50,7 @@ Siga estes passos para ter o plugin funcionando em minutos.
 
 1.  Crie uma pasta chamada `ga4-tracker` dentro do diretório `/user/plugins/` da sua instalação do YOURLS.
 2.  Crie um arquivo chamado `plugin.php` dentro da pasta `ga4-tracker`.
-3.  Copie e cole o [código do plugin](LINK_PARA_O_SEU_ARQUIVO_PHP_NO_GITHUB) no arquivo `plugin.php` que você criou.
+3.  Copie e cole o [código do plugin](https://raw.githubusercontent.com/geanramos/ga4_tracker/refs/heads/main/plugin.php) no arquivo `plugin.php` que você criou.
 4.  Vá até a página de administração do seu YOURLS, clique em **Manage Plugins** e ative o plugin **"GA4 Tracker"**.
 
 ### 2. Configuração no Google Analytics 4
