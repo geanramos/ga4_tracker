@@ -101,4 +101,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* para
 
 ## Licença
 
-Este plugin é distribuído sob a licença [MIT](URL_PARA_SUA_LICENCA_NO_GITHUB).
+Este plugin é distribuído sob a licença [MIT](?tab=MIT-1-ov-file).
