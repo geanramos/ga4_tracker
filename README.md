@@ -101,4 +101,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* para
 
 ## Licença
 
-Este plugin é distribuído sob a licença [MIT](?tab=MIT-1-ov-file).
+Este plugin é distribuído sob a licença [MIT](https://github.com/geanramos/ga4_tracker/tree/main?tab=MIT-1-ov-file).
