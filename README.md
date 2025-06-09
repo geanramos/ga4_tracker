@@ -3,8 +3,10 @@
 Este plugin integra sua instalação do YOURLS ao Google Analytics 4 (GA4), permitindo que você rastreie cada clique em seus links encurtados como um evento personalizado. A comunicação é feita de forma segura e eficiente através do Measurement Protocol v2 do Google, sem impactar a velocidade de redirecionamento para o usuário.
 
 **Versão do Plugin:** 1.0
+
 **Compatibilidade com YOURLS:** 1.7.x ou superior
-**Autor:** Seu Nome
+
+**Autor:** [Gean Ramos](https://geanramos.com.br)
 
 ---
 
