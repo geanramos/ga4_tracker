@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: GA4 Tracker
-Plugin URI: https://geanramos.com.br/#GA4-Tracker
+Plugin URI: https://github.com/geanramos/ga4_tracker/
 Description: Envia eventos de redirecionamento para o Google Analytics 4 usando o Measurement Protocol.
 Version: 1.0
-Author: Gean Ramos
+Author: @GeanRamos
+Author URI: https://geanramos.com.br/#ga4-tracker
 */
 
 // Medida de segurança
